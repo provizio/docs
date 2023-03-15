@@ -2,11 +2,11 @@
 
 ## Quick Start Guide
 
-[Quick Start Guide PDF](Provizio_Radar_Quick_Start_Guide.pdf)
+[Quick Start Guide PDF](https://github.com/provizio/docs/blob/master/Provizio_Radar_Quick_Start_Guide.pdf) *(Password Protected)*
 
 ## User Manual
 
-[User Manual PDF](Provizio_Radar_User_Manual.pdf)
+[User Manual PDF](https://github.com/provizio/docs/blob/master/Provizio_Radar_User_Manual.pdf) *(Password Protected)*
 
 ## Useful Links
 
